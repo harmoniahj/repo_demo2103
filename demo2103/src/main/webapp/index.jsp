@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>index.jsp</title>
 </head>
 <body>
- 테스트 페이지 추가
+테스트 페이지 입니다.
 </body>
 </html>
